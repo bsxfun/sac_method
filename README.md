@@ -14,5 +14,6 @@ N-point spherical configuration generation with spherical area coordinate method
     python sac_method.py --mn 4,0 4,0 --plot
 
 Example image generated with:
+
     python sac_method.py --mn 1,1 4,0 4,0 --plot
 ![SAC method example](https://github.com/bsxfun/sac_method/blob/main/sac_example.png?raw=true)
