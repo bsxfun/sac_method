@@ -1,7 +1,7 @@
 # sac_method
 N-point spherical configuration generation with spherical area coordinate method
 
-See preprint.pdf for details.
+See the [preprint article](https://github.com/bsxfun/sac_method/blob/main/preprint.pdf) for details.
 
 ## Requirements
 - python >= 3.9.0
