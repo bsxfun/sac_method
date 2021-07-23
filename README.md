@@ -1,6 +1,8 @@
 # sac_method
 N-point spherical configuration generation with spherical area coordinate method
 
+See preprint.pdf for details.
+
 ## Requirements
 - python >= 3.9.0
 - numpy >= 1.20.1
